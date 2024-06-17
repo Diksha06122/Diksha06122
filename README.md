@@ -9,7 +9,7 @@ Passionate Data Scientist proficient in Python, machine learning, and deep learn
 
 
 ## Technical Skills 🛠️
-*Programming: Python (NumPy, Pandas, Scikit-learn, Keras, Langchain, Vector Databases, Huggingface)
-*Data Handling: SQL, Excel
-*Machine Learning: Model Training, Optimization
-*Deep Learning: Generative AI, Large Language Models (LLMs), NLP
+  -Programming: Python (NumPy, Pandas, Scikit-learn, Keras, Langchain, Vector Databases, Huggingface)
+  -Data Handling: SQL, Excel
+  -Machine Learning: Model Training, Optimization
+  -Deep Learning: Generative AI, Large Language Models (LLMs), NLP
